@@ -5,11 +5,9 @@
 #define PB push_back
 #define MP make_pair
 #define REP(i,a,b) for(int i=a;i<=b;i++)
-typedef long long ll;
-typedef vector<long long> vl;
-typedef pair<long long,long long> pl;
-
-
+#define ll long long
+#define vector<ll,ll> vl
+#define pair<ll,ll> pl
 using namespace std;
 
 void solve(){
