@@ -6,8 +6,8 @@
 #define MP make_pair
 #define REP(i,a,b) for(int i=a;i<=b;i++)
 typedef long long ll;
-typedef vector<ll> vl;
-typedef pair<ll,ll> pl;
+typedef vector<long long> vl;
+typedef pair<long long,long long> pl;
 
 
 using namespace std;
@@ -24,4 +24,5 @@ int main(){
 
 	return 0;
 }
+
 
