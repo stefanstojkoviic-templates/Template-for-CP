@@ -6,20 +6,18 @@
 #define MP make_pair
 #define REP(i,a,b) for(int i=a;i<=b;i++)
 #define ll long long
-#define vector<ll,ll> vl
-#define pair<ll,ll> pl
+int MOD =1000000007;
+//int niz[200005];
 using namespace std;
 
 void solve(){
 
 }
 
-
 int main(){
 	FAST;
 	ll t;cin>>t;
 	while(t--)solve();
-
 	return 0;
 }
 
