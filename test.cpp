@@ -4,11 +4,17 @@
 #define S second
 #define PB push_back
 #define MP make_pair
-#define REP(i,a,b) for(int i=a;i<=b;i++)
+#define REP(i,a,b) for(int i=a;i<b;i++)
 #define ll long long
 int MOD =1000000007;
 //int niz[200005];
 using namespace std;
+
+bool comp(string a,string b){
+	//poredjenje stringa po velicini primarno a leksikografski sekundarno
+	if(a.size()==b.size())return a<b;
+	else return (a.size()<b.size());
+}
 
 void solve(){
 
