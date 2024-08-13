@@ -1,3 +1,3 @@
 # CP Template 
 
-Feel free to use it 🙂
+Feel free to use it.
